@@ -134,12 +134,12 @@ Disable all jobs related to a ROS distribution
 
 The process is the same as for for disabling a specific target.
 The prefixes are just slightly more generic to match all targets of that ROS distribution:
-* ``Lsrc_`` which matches all Lunar source jobs.
-* ``Lbin_`` which matches all Lunar binary jobs.
-* ``Lrel_`` which matches the Lunar release related management jobs.
-* ``Ldev_`` which matches the Lunar devel jobs as well as the management related jobs.
-* ``Ldoc_`` which matches the Lunar doc jobs as well as the management related jobs.
-* ``Lpr_`` which matches the Lunar PR jobs as well as the management related jobs.
+ * ``Lsrc_`` which matches all Lunar source jobs.
+ * ``Lbin_`` which matches all Lunar binary jobs.
+ * ``Lrel_`` which matches the Lunar release related management jobs.
+ * ``Ldev_`` which matches the Lunar devel jobs as well as the management related jobs.
+ * ``Ldoc_`` which matches the Lunar doc jobs as well as the management related jobs.
+ * ``Lpr_`` which matches the Lunar PR jobs as well as the management related jobs.
 
 Deleting all views related to a ROS distribution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
